@@ -1,0 +1,2 @@
+# template
+Opinionated repository template
