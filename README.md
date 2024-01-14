@@ -1,2 +1,3 @@
-# template
-Opinionated repository template
+# Opinionated repository template
+
+...

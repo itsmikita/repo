@@ -1,0 +1,12 @@
+{
+  "name": "template",
+  "version": "0.0.0",
+  "author": "",
+  "private": "true",
+  "scripts": {
+    "dev": "bun run ./src/index.tsx --hot",
+    "build": "bun build ./src/index.tsx --jsx-runtime automatic --outdir ./dist",
+    "test": "echo 'no tests'"
+  },
+  "dependencies": {}
+}
