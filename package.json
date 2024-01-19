@@ -4,9 +4,11 @@
   "author": "",
   "private": "true",
   "scripts": {
-    "dev": "bun run ./src/index.tsx --hot",
-    "build": "bun build ./src/index.tsx --jsx-runtime automatic --outdir ./dist",
-    "test": "echo 'no tests'"
+    "dev": "bun run ./server.ts --hot",
+    "build": "bun build ./server.ts --outdir ./dist"
   },
-  "dependencies": {}
+  "dependencies": {
+    "bun": "^1.0.22",
+    "bun-types": "^1.0.22"
+  }
 }
