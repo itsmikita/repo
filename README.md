@@ -1,3 +1,3 @@
-# Opinionated repository template
+# The `@itsmikita/repo` template
 
-Could be standalone or used within a monorepo.
+Opinionated repository template. Could be standalone or used within a monorepo.

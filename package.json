@@ -1,6 +1,6 @@
 {
-  "name": "template",
-  "version": "0.0.0",
+  "name": "@itsmikita/repo",
+  "version": "0.0.3",
   "author": {
     "name": "Mikita Stankiewicz",
     "email": "itsmikita@gmail.com",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/itsmikita/template.git"
+    "url": "https://github.com/itsmikita/repo.git"
   },
   "private": "true",
   "type": "module",
